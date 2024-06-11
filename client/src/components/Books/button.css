@@ -1,0 +1,20 @@
+.buttons {
+    margin-left: 5px;
+}
+
+.buttons #edit {
+    color: white;
+    background-color: rgb(66, 66, 214);
+    margin-right: 3px;
+    padding: 3px 5px;
+    cursor: pointer;
+
+}
+
+.buttons #delete {
+    color: white;
+    background-color: rgb(206, 53, 53);
+    padding: 3px 5px;
+    cursor: pointer;
+
+}
